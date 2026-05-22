@@ -1,3 +1,3 @@
-# template-web
+# recursion
 
-Creating a template for future web dev projects
+Practicing recursion by writing 2 functions; Fibonacci and Merge Sort.

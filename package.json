@@ -1,7 +1,7 @@
 {
-  "name": "template-web",
+  "name": "recursion",
   "version": "1.0.0",
-  "description": "Creating a template for future web dev projects",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
